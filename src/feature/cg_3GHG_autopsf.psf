@@ -1,0 +1,64 @@
+PSF
+
+       3 !NTITLE
+ REMARKS original generated structure x-plor psf file
+ REMARKS topology cg_3GHG_chainABCDEF_remodelled_autopsf-temp.top 
+ REMARKS segment XO1 { first none; last none; auto angles  }
+
+      15 !NATOM
+       1 XO1  1    FUP  B1   B1    -9.629997    27344.1885           0
+       2 XO1  1    FUP  B2   B2    -8.359997    26957.8235           0
+       3 XO1  1    FUP  B3   B3     2.470002    14347.3927           0
+       4 XO1  1    FUP  B4   B4     3.275002    14122.3517           0
+       5 XO1  1    FUP  B5   B5    -2.874997    28798.1405           0
+       6 XO1  1    FUP  B6   B6    -0.614997    25924.8705           0
+       7 XO1  1    FUP  B7   B7     2.270001    11555.2718           0
+       8 XO1  1    FUP  B8   B8    -7.849997    31699.1504           0
+       9 XO1  1    FUP  B9   B9    -5.744997    26878.0175           0
+      10 XO1  1    FUP  B10  B10   -2.239999    12840.3708           0
+      11 XO1  1    FUP  B11  B11   -5.919997    30949.2994           0
+      12 XO1  1    FUP  B12  B12    3.770001    11253.0288           0
+      13 XO1  1    FUP  B13  B13    2.100002    15659.8037           0
+      14 XO1  1    FUP  B14  B14   -2.374999    13468.0847           0
+      15 XO1  1    FUP  B15  B15    3.725002    14510.8597           0
+
+      14 !NBOND: bonds
+       1      12       2       7       3       4       3       7
+       3      10       4       5       5      11       6       8
+       6      15       9      10       9      14      12      13
+      13      14      13      15
+
+      15 !NTHETA: angles
+       1      12      13       2       7       3       3      10       9
+       3       4       5       4       5      11       4       3      10
+       4       3       7       6      15      13       7       3      10
+       8       6      15       9      14      13      10       9      14
+      12      13      15      12      13      14      14      13      15
+
+      16 !NPHI: dihedrals
+       1      12      13      14       1      12      13      15
+       2       7       3       4       2       7       3      10
+       3      10       9      14       3       4       5      11
+       4       3      10       9       5       4       3       7
+       5       4       3      10       6      15      13      12
+       6      15      13      14       7       3      10       9
+       8       6      15      13       9      14      13      12
+       9      14      13      15      10       9      14      13
+
+       0 !NIMPHI: impropers
+
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0
+
+       1       0 !NGRP
+       0       0       0
+
